@@ -1,7 +1,5 @@
 # Greetings Era 🤚   
 
-<br>
-
 ### Oh Hi 👋
 My name is Gilberto Galileo a student of the Universidad de Guadalajara in Bachelor´s Degree in Computer Engineering 💎✨  
   
