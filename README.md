@@ -14,7 +14,7 @@ My name is Gilberto Galileo a student of the Universidad de Guadalajara in Bache
 - 🌱 Improving my programing skills. At the moment focusing on Javascript and React 
   
 
-- ❓ Improving my front end skills and hoping to improve my backend skills soon!  
+- ❓ Currently working on projects of my own
   
 
 - ⚡ Fun fact: Trying to say yes instead of no   
